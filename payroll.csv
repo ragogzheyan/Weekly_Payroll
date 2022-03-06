@@ -1,0 +1,9 @@
+Mark, Employee_ID, SSN, Emails, Phone_Numbers, Employee_First_Name, Employee_Last_Name, Rate, Hours, Dependents, YTD_Social_Security, Address, City, State, Zip_Code 
+1., 11-1023, 122-76-1971, Linus-Breeze@yahoo.com, 880-764-6500, Linus, Breeze, 27.50, 40.25, 4, 4974.00, 314 Central, Burton, MI, 49611 
+2., 11-1278, 122-56-7834, JuanS@aol.com, 880-493-3643, Juan, Santiago, 18.75, 56.00, 1, 5540.20, 21 West 8th, Glenview, MI, 48121 
+3., 11-1456, 122-83-9750, jamesw543@hotmail.com, 880-205-7698, James, Webb, 28.35, 38.00, 3, 4254.00, 281 Robin, Burton, MI, 49611 
+4., 11-1634, 122-76-5943, Kylie.Sabol5@my-work.net, 880-731-8634, Kylie, Sabol, 21.50, 46.50, 6, 5553.90, 462 River, Torino, MI, 48268   
+5., 11-1861, 122-25-4567, Ambera@live.com, 880-492-9837, Amber, Ali, 19.35, 17.00, 2, 3447.60, 867 Bay Ridge, Glenview, MI, 48121 
+6., 11-2094, 122-45-7254, keving-614@university.edu, 880-930-7655, Kevin, Goldstein, 17.05, 28.00, 5, NA, 36 Bayview, Cavela, MI, 47926 
+7., 11-2230, 122-94-3159, Lee22Chang@gmail.com, 880-728-6351, Lee, Chang, 17.05, 28.00, 5, 4825.50, 283 Waterfront, Burton, MI, 49611 
+8., 11-2484, 122-65-5682, albertfritz@att.net, 880-376-2489, Albert, Fritz, 28.35, 38.75, 3, 5553.90, 92 East Bay, Woodview, MI, 47212 
