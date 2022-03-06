@@ -3,7 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-.Payroll_rev_2
+Payroll_rev_2.py 
+
 # User-specific files
 *.rsuser
 *.suo
