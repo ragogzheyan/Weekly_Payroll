@@ -11,6 +11,7 @@ obs/
 *.user
 *.userosscache
 *.sln.docstates
+.payroll_rev2
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
