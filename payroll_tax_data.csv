@@ -1,3 +1,4 @@
-Case, Social_Security_tax, Medicare_tax
-1, 0.08, 0.0275
-2, 0.105, 0.225
+Case,Year,Social_Security_tax,Medicare_tax
+1, 2021,0.0620,0.0145 
+2, 2022,0.0800,0.0275
+3, 2023,0.1050,0.0225
