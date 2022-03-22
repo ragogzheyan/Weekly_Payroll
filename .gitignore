@@ -17,7 +17,7 @@ ENV/
 # pyenv
 .python-version
 
-.payroll_rev2
+
 obs/
 # User-specific files
 *.rsuser
@@ -25,10 +25,13 @@ obs/
 *.user
 *.userosscache
 *.sln.docstates
+*.ssh
 .payroll_rev2
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+*.downloads
 
 # Mono auto generated files
 mono_crash.*
