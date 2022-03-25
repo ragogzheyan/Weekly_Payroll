@@ -1,18 +1,20 @@
-# Weekly_Payroll
+#Weekly Payroll 
 
 
-###### This Project requires installation of the packages that are located in the **requirements.txt**. The most common packages that I used listed below:
+###### This Project requires installation of the packages and activating environment (see _requirements.txt_) both are essential for the software in the environment to work well. All imports for the project are listed below: 
 
-* Import pandas as pd
-* Import matplotlib.pyplot as plt
-* Import seaborn as sns
-* Import regex
+ 
+* Import pandas as pd 
 
-###### Weekly Payroll Project has built in code and data analysis. All comments inside the ** Payroll_data.ipynb** will walk you through step by step. Your journey will begin going from nested dictionary all the way to the line graph, the histogram, and the summary of two methods of statistics with a Box-Whiskers Plot. The **payroll_tax_data.csv** is also being use to project annual changes in weekly payroll and how it affects net pay and totals. (Need to write more) 
+* Import matplotlib.pyplot as plt 
 
-The *Regex_Employee_Info.ipynb* has regex code and *payroll.csv* file. The CSV file reads, finds, and stores regular expression (regex) in the list, for Employee ID, SSN, Emails, and Phone Numbers in the list format[^1].
+* Import seaborn as sns 
 
-[^note]:
-    All data including (personal information) in the *payroll.csv* does not represent any person or persons. Everything has been generated to preserve originality of the raw data and capture visualization for this project. 
-    
-    
+* Import regex as re 
+
+ 
+###### Weekly Payroll Project has built-in a python code and data analysis. All comments inside the _Payroll_data.ipynb_ will walk you through step by step. Your journey will begin going from a nested dictionary all the way to the line graph, the histogram, and the summary of two methods of statistics with a Box-Whiskers Plot. The _payroll_tax_data.csv_ is also being used to project annual changes in weekly payroll, and how it might affect totals for each year if everything else stays the same. 
+
+###### The _Regex_Employee_Info.ipynb_ has regex code and _payroll.csv_ file. The CSV file stores content of an employee's data in the list format. Combined with regular expression code (regex), it also reads and searches for Employee ID, SSN, Emails, and Phone Numbers.  
+
+#### All data, including (personal information) in the _payroll.csv_ does not describe any person or persons. Everything has been generated to preserve the originality of the raw data, and capture visualization for this project.  
